@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/deonis98/learnjs#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "webpack": "^4.42.1"
   }
 }
