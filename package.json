@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/deonis98/learnjs/issues"
   },
-  "homepage": "https://github.com/deonis98/learnjs#readme"
+  "homepage": "https://github.com/deonis98/learnjs#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
