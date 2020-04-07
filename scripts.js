@@ -1,7 +1,7 @@
 "use strict";
 
 /**
- *  Function
+ *  Function Learn
  */
 
 function clunk(times) {
