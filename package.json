@@ -1,0 +1,19 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deonis98/learnjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deonis98/learnjs/issues"
+  },
+  "homepage": "https://github.com/deonis98/learnjs#readme"
+}
